@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisuDraft: Sketch to Code",
+  "description": "An AI-powered tool that converts hand-drawn UI sketches into clean, production-ready HTML/Tailwind CSS code using Gemini 1.5 Pro Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
